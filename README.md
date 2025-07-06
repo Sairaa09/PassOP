@@ -10,6 +10,8 @@
 ![Storage](https://img.shields.io/badge/Data-LocalStorage-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Last Updated](https://img.shields.io/badge/Last%20Update-July%202025-lightgrey)
+[![Live Preview](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://pass-op-pied.vercel.app/)
+
 
 </div>
 
