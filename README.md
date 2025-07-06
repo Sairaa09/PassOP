@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔐 PASSWORD MANAGER (Frontend Only)
+# 🔐 PASSWORD MANAGER 
 
 *Securely store your passwords  right in your browser.*
 
